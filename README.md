@@ -2,7 +2,7 @@
 
 **Warm Start** is a serverless conference experience for beginners.
 
-It's more than a just another tech conference. A team of experienced speakers & mentors will help you with:
+It's more than just another tech conference. A team of experienced speakers & mentors will help you with:
 
 - Writing the *call for papers* (CFP).
 - Giving tips on creating slides & demos.
@@ -14,7 +14,7 @@ The goal is to get you comfortable and well prepared for giving your first 10 mi
 
 ### The speakers we're looking for
 
-We're looking for people, especially from underrepresented groups, who are new to speaking and a tiny bit of serverless experience.
+We're looking for people, especially from underrepresented groups, who are new to speaking and have a tiny bit of serverless experience.
 
 ### The conference audience we have in mind
 
